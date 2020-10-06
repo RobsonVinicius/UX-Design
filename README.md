@@ -17,7 +17,7 @@
 + Lean UX: Applying Lean Principles to Improve User Experience - Gothelf, Jeff
 + Building the Realtime User Experience - Roden, Ted
 
-## Blogs
+## 🌐 Blogs
 
 + ux.blog | Mergo (https://uxdesign.blog.br/)
 
