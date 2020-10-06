@@ -23,7 +23,7 @@
 
 + ux.blog | Mergo (https://uxdesign.blog.br/)
 + UX Collective (https://brasil.uxdesign.cc)
-
++ Coletivo UX (https://coletivo.com)
 <br>
 
 ## ✏️ Documentação de Estudo:
