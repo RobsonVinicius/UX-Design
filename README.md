@@ -35,3 +35,8 @@
 
 <br>
 
+## 🎓 Cursos
+
++ Interaction Design Foundation (https://www.interaction-design.org/)
++ edX (https://www.edx.org/learn/user-experience-ux)
+
