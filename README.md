@@ -31,6 +31,8 @@
 
 + Interaction Design Foundation (https://www.interaction-design.org/)
 + edX (https://www.edx.org/learn/user-experience-ux)
++ Mergo (https://www.mergo.com.br/)
++ Mercedes Sanchez - Treinamento UX-PM Certification (https://mercedessanchez.com.br/pt/treinamento)
 
 <br>
 
