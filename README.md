@@ -2,7 +2,7 @@
  
  ![UX Design Header Readme](imagens/ux-design.png)
 
-  ## **Repositório criado para documentação de estudos em UX Design**
+  ### **Repositório criado para documentação de estudos em UX Design**
 </div>
 <br><br>
 
