@@ -22,6 +22,7 @@
 ## 🌐 Blogs
 
 + ux.blog | Mergo (https://uxdesign.blog.br/)
++ UX Collective (https://brasil.uxdesign.cc)
 
 <br>
 
