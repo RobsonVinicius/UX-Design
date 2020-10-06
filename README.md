@@ -13,7 +13,10 @@
 + Não me Faça Pensar - Steve Krug
 + A Project Guide To UX Design - Russ Unger and Carolyn Chandler 
 + Mapeamento de Experiências - Jim Kalbach
-+ Introdução e boas práticas em UX Design
++ Introdução e boas práticas em UX Design - Fabricio Teixeira
++ Lean UX: Applying Lean Principles to Improve User Experience - Gothelf, Jeff
++ Building the Realtime User Experience - Roden, Ted
+
 
 
 <br>
