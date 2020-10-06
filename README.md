@@ -24,6 +24,14 @@
 + ux.blog | Mergo (https://uxdesign.blog.br/)
 + UX Collective (https://brasil.uxdesign.cc)
 + Coletivo UX (https://coletivo.com)
+
+<br>
+
+## 🎓 Cursos
+
++ Interaction Design Foundation (https://www.interaction-design.org/)
++ edX (https://www.edx.org/learn/user-experience-ux)
+
 <br>
 
 ## ✏️ Documentação de Estudo:
@@ -33,10 +41,5 @@
 + Acesse a pasta x
   + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos
 
-<br>
 
-## 🎓 Cursos
-
-+ Interaction Design Foundation (https://www.interaction-design.org/)
-+ edX (https://www.edx.org/learn/user-experience-ux)
 
