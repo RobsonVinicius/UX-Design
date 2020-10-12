@@ -1,1 +1,47 @@
-# UX-Design
+﻿<div align="center">
+ 
+ ![UX Design Header Readme](imagens/ux-design.png)
+
+  ### **Repositório criado para documentação de estudos em UX Design**
+</div>
+<br><br>
+
+
+## 📚  Livros (Indicações): 
+ 
++ O Design do Dia a Dia - Donald A.Norman
++ Não me Faça Pensar - Steve Krug
++ A Project Guide To UX Design - Russ Unger and Carolyn Chandler 
++ Mapeamento de Experiências - Jim Kalbach
++ Introdução e boas práticas em UX Design - Fabricio Teixeira
++ Lean UX: Applying Lean Principles to Improve User Experience - Gothelf, Jeff
++ Building the Realtime User Experience - Roden, Ted
+
+<br>
+
+## 🌐 Blogs
+
++ ux.blog | Mergo (https://uxdesign.blog.br/)
++ UX Collective (https://brasil.uxdesign.cc)
++ Coletivo UX (https://coletivo.com)
+
+<br>
+
+## 🎓 Cursos
+
++ Interaction Design Foundation (https://www.interaction-design.org/)
++ edX (https://www.edx.org/learn/user-experience-ux)
++ Mergo (https://www.mergo.com.br/)
++ Mercedes Sanchez - Treinamento UX-PM Certification (https://mercedessanchez.com.br/pt/treinamento)
+
+<br>
+
+## ✏️ Documentação de Estudo:
+
+**Em Andamento**
+
++ Acesse a pasta x
+  + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos
+
+
+
