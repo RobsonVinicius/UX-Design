@@ -11,11 +11,14 @@
  
 + O Design do Dia a Dia - Donald A.Norman
 + Não me Faça Pensar - Steve Krug
++ Usabilidade na Web - Jakob Nielsen & Hoa Loranger
 + A Project Guide To UX Design - Russ Unger and Carolyn Chandler 
 + Mapeamento de Experiências - Jim Kalbach
 + Introdução e boas práticas em UX Design - Fabricio Teixeira
 + Lean UX: Applying Lean Principles to Improve User Experience - Gothelf, Jeff
 + Building the Realtime User Experience - Roden, Ted
++ Gamestorming – Jogos Corporativos Para Mudar, Inovar e Quebrar Regras - Dave Gray, Sunni Brown, James Macanufo
++ Sprint: o Método Usado No Google Para Testar e Aplicar Novas Ideias Em Apenas Cinco Dias - Jake Knapp
 
 <br>
 
