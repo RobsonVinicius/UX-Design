@@ -29,7 +29,7 @@
   
     A Importância da UX
 
-<br><br>
+<br>
 
 2. Quais áreas são da UX
     
@@ -37,7 +37,7 @@
     
     Pontos à analisar do usuário
 
-<br><br>
+<br>
 
 3. História rápida da UX
   
@@ -47,25 +47,38 @@
   
     Diferença entre usuário e cliente
 
-<br><br>
+<br>
 
 4. Ideias
-  De onde tirar ideias
-  Brainstorming e Gamestorming
-  Pensando em problemas
-  Time heterogêneo
+    De onde tirar ideias
+    
+    Brainstorming e Gamestorming
+    
+    Pensando em problemas
+    
+    Time heterogêneo
+
+<br>
 
 5. Organização
+
   Kanban
+  
   Card sorting 
+  
+<br>
 
 6. Entregáveis e Ferramentas
-  Entregáveis de UX 
-  Ferramnetas de UX
+    Entregáveis de UX 
+    Ferramnetas de UX
+    
+<br>
 
-6. Escolhendo um caminho
-  Zen Voting
+7. Escolhendo um caminho
+    Zen Voting
 
-7. Resumo 
-  Resumo do que foi estudo no curso
+<br>
+
+8. Resumo 
+    Resumo do que foi estudo no curso
 
