@@ -2,7 +2,7 @@
 
 Documentação do curso de UX Base realizado na [Alura](https://www.alura.com.br) 
 
-[Link para o Curso](https://www.alura.com.br/curso-online-ux-base) 
+[Link para o Curso: UX o que é experiência de usuário](https://www.alura.com.br/curso-online-ux-base) 
 
 **Iniciado em:**<br> 12/06/2016
 
@@ -14,19 +14,20 @@ Documentação do curso de UX Base realizado na [Alura](https://www.alura.com.br
 
 Linkedin: https://br.linkedin.com/in/designernatan
 
+## 
 <br>
 
 ## Conteúdo: 
 
 1. Introdução: O que é UX?
 
-  O que é UX
+    O que é UX
   
-  O que é Experiência
+    O que é Experiência
   
-  O que é Usuário 
+    O que é Usuário 
   
-  A Importância da UX
+    A Importância da UX
 
 2. Quais áreas são da UX
   A importância do usuári
