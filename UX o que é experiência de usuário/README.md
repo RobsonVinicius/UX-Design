@@ -4,7 +4,7 @@
 
 📚 Está pasta é uma documentação do curso de UX Base realizado na [Alura](https://www.alura.com.br) 
 
-🔗 [Link para o Curso: UX o que é experiência de usuário](https://www.alura.com.br/curso-online-ux-base) 
+🔗 [Curso: UX o que é experiência de usuário (Alura)](https://www.alura.com.br/curso-online-ux-base) 
 
 👨‍🏫  **Instrutor:** Natan Souza - UX Designer | Linkedin: https://br.linkedin.com/in/designernatan
 
@@ -33,7 +33,7 @@
 
 <br>
 
-3. História rápida da UX
+[3. História rápida da UX](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20o%20que%20%C3%A9%20experi%C3%AAncia%20de%20usu%C3%A1rio/3.%20Hist%C3%B3ria.md)
   
     Usabilidade como diferencial
       
