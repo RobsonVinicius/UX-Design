@@ -10,13 +10,6 @@
 
 <br>
 
-**Iniciado em:**<br> 12/06/2016
-
-**Concluído em:**<br> 18/06/2016
-
-
-<br>
-
 ## 📋 Conteúdo: 
 
 1. Introdução: O que é UX?
