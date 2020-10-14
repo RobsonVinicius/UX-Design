@@ -19,9 +19,13 @@ Linkedin: https://br.linkedin.com/in/designernatan
 ## Conteúdo: 
 
 1. Introdução: O que é UX?
+
   O que é UX
+  
   O que é Experiência
+  
   O que é Usuário 
+  
   A Importância da UX
 
 2. Quais áreas são da UX
