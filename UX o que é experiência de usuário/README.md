@@ -8,6 +8,7 @@
 
 👨‍🏫  **Instrutor:** Natan Souza - UX Designer | Linkedin: https://br.linkedin.com/in/designernatan
 
+<br>
 
 **Iniciado em:**<br> 12/06/2016
 
@@ -28,10 +29,13 @@
     O que é Usuário 
   
     A Importância da UX
+    
 
 2. Quais áreas são da UX
-  A importância do usuári
-  Pontos à analisar do usuário
+    
+    A importância do usuári
+    
+    Pontos à analisar do usuário
 
 3. História rápida da UX
   Usabilidade como diferencial
