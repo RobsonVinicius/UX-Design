@@ -6,9 +6,9 @@ Documentação do curso de UX Base realizado na [Alura](https://www.alura.com.br
 
 **Iniciado em:**<br> 12/06/2016
 
-**Concluído em:** 18/06/2016
+**Concluído em:**<br> 18/06/2016
 
-## &nbsp;
+## 
 
 **Instrutor:** Natan Souza - UX Designer
 
