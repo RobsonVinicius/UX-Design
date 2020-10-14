@@ -2,7 +2,7 @@
 
 <br>
 
-📚 Documentação do curso de UX Base realizado na [Alura](https://www.alura.com.br) 
+📚 Está pasta é uma documentação do curso de UX Base realizado na [Alura](https://www.alura.com.br) 
 
 🔗 [Link para o Curso: UX o que é experiência de usuário](https://www.alura.com.br/curso-online-ux-base) 
 
@@ -14,7 +14,6 @@
 
 **Concluído em:**<br> 18/06/2016
 
-## 
 
 <br>
 
@@ -29,7 +28,8 @@
     O que é Usuário 
   
     A Importância da UX
-    
+
+<br><br>
 
 2. Quais áreas são da UX
     
@@ -37,10 +37,17 @@
     
     Pontos à analisar do usuário
 
+<br><br>
+
 3. História rápida da UX
-  Usabilidade como diferencial
-  Diferença entre UX e usabilidade
-  Diferença entre usuário e cliente
+  
+    Usabilidade como diferencial
+      
+    Diferença entre UX e usabilidade
+  
+    Diferença entre usuário e cliente
+
+<br><br>
 
 4. Ideias
   De onde tirar ideias
