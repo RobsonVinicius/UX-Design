@@ -43,7 +43,7 @@
 
 <br>
 
-4. Ideias
+[4. Ideias](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20o%20que%20%C3%A9%20experi%C3%AAncia%20de%20usu%C3%A1rio/4.%20Ideias%20e%20Gamestorming.md)
     De onde tirar ideias
     
     Brainstorming e Gamestorming
@@ -54,7 +54,7 @@
 
 <br>
 
-5. Organização
+[5. Organização](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20o%20que%20%C3%A9%20experi%C3%AAncia%20de%20usu%C3%A1rio/5.%20Time%20e%20Kanban.md)
 
     Kanban
   
@@ -62,7 +62,7 @@
   
 <br>
 
-6. Entregáveis e Ferramentas
+[6. Entregáveis e Ferramentas](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20o%20que%20%C3%A9%20experi%C3%AAncia%20de%20usu%C3%A1rio/6.%20Entreg%C3%A1veis%20e%20ferramentas.md)
     
     Entregáveis de UX 
     
@@ -70,13 +70,13 @@
     
 <br>
 
-7. Escolhendo um caminho
+[7. Escolhendo um caminho](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20o%20que%20%C3%A9%20experi%C3%AAncia%20de%20usu%C3%A1rio/7.%20Decidindo%20o%20caminho%20com%20Zen%20Voting.md)
     
     Zen Voting
 
 <br>
 
-8. Resumo 
+[8. Resumo](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20o%20que%20%C3%A9%20experi%C3%AAncia%20de%20usu%C3%A1rio/8.%20Resumo.md)
     
     Resumo do que foi estudo no curso
 
