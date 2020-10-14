@@ -1,10 +1,10 @@
 # UX O que é Experiência de usuário
 
-Documentação do curso de UX Base realizado na [Alura](https://www.alura.com.br) 
+📚 Documentação do curso de UX Base realizado na [Alura](https://www.alura.com.br) 
 
-[Link para o Curso: UX o que é experiência de usuário](https://www.alura.com.br/curso-online-ux-base) 
+🔗 [Link para o Curso: UX o que é experiência de usuário](https://www.alura.com.br/curso-online-ux-base) 
 
-**Instrutor:** Natan Souza - UX Designer | Linkedin: https://br.linkedin.com/in/designernatan
+👨‍🏫  **Instrutor:** Natan Souza - UX Designer | Linkedin: https://br.linkedin.com/in/designernatan
 
 
 **Iniciado em:**<br> 12/06/2016
@@ -15,7 +15,7 @@ Documentação do curso de UX Base realizado na [Alura](https://www.alura.com.br
 
 <br>
 
-## Conteúdo: 
+## 📋 Conteúdo: 
 
 1. Introdução: O que é UX?
 
