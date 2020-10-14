@@ -7,7 +7,7 @@
 <br><br>
 
 
-## 📚  Livros (Indicações): 
+## 📚  Livros: 
  
 + **O Design do Dia a Dia** - Donald A.Norman
 + **Não me Faça Pensar** - Steve Krug
