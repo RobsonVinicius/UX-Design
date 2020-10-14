@@ -41,9 +41,8 @@
 
 ## ✏️ Documentação de Estudo:
 
-**Em Andamento**
 
-+ UX o que é experiência de usuário
++ **UX o que é experiência de usuário**
   + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos
 
 
