@@ -62,23 +62,27 @@
 
 5. Organização
 
-  Kanban
+    Kanban
   
-  Card sorting 
+    Card sorting 
   
 <br>
 
 6. Entregáveis e Ferramentas
+    
     Entregáveis de UX 
+    
     Ferramnetas de UX
     
 <br>
 
 7. Escolhendo um caminho
+    
     Zen Voting
 
 <br>
 
 8. Resumo 
+    
     Resumo do que foi estudo no curso
 
