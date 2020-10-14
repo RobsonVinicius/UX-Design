@@ -6,7 +6,7 @@
 
 🔗 [Curso: UX o que é experiência de usuário (Alura)](https://www.alura.com.br/curso-online-ux-base) 
 
-👨‍🏫  **Instrutor:** Natan Souza - UX Designer [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/designernatan)](https://www.linkedin.com/in/designernatan)
+👨‍🏫  **Instrutor:** Natan Souza - UX Designer | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/designernatan)](https://www.linkedin.com/in/designernatan)
 
 <br>
 
