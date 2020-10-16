@@ -1,10 +1,9 @@
-<img src="images/header.png" align="right" width="300">
+<img src="images/header.png" align="left" width="300">
 
 
 
-# UX O que é Experiência de usuário
+<!-- # UX O que é Experiência de usuário -->
 
-<br>
 
 📚 Está pasta é uma documentação do curso de UX Base realizado na [Alura](https://www.alura.com.br) 
 
