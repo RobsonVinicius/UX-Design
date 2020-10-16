@@ -10,7 +10,7 @@
 
 👨‍🏫  &nbsp; **Instrutor:** Natan Souza - UX Designer <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp; Linkedin: https://www.linkedin.com/in/designernatan
 
-<br><br><br>
+<br><br>
 
 ## 📋 Conteúdo: 
 
