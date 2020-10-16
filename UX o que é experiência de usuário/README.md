@@ -30,57 +30,57 @@
 
 [2. Quais áreas são da UX](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20o%20que%20%C3%A9%20experi%C3%AAncia%20de%20usu%C3%A1rio/2.%20Quais%20%C3%A1reas%20s%C3%A3o%20da%20UX.md)
     
-    + A importância do usuário
+   + A importância do usuário
     
-    + Pontos à analisar do usuário
+   + Pontos à analisar do usuário
 
 <br>
 
 [3. História rápida da UX](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20o%20que%20%C3%A9%20experi%C3%AAncia%20de%20usu%C3%A1rio/3.%20Hist%C3%B3ria.md)
   
-    + Usabilidade como diferencial
+   + Usabilidade como diferencial
       
-    + Diferença entre UX e usabilidade
+   + Diferença entre UX e usabilidade
   
-    + Diferença entre usuário e cliente
+   + Diferença entre usuário e cliente
 
 <br>
 
 [4. Ideias](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20o%20que%20%C3%A9%20experi%C3%AAncia%20de%20usu%C3%A1rio/4.%20Ideias%20e%20Gamestorming.md)
     
-    + De onde tirar ideias
+   + De onde tirar ideias
     
-    + Brainstorming e Gamestorming
+   + Brainstorming e Gamestorming
     
-    + Pensando em problemas
+   + Pensando em problemas
     
-    + Time heterogêneo
+   + Time heterogêneo
 
 <br>
 
 [5. Organização](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20o%20que%20%C3%A9%20experi%C3%AAncia%20de%20usu%C3%A1rio/5.%20Time%20e%20Kanban.md)
 
-    + Kanban
+   + Kanban
   
-    + Card sorting 
+   + Card sorting 
   
 <br>
 
 [6. Entregáveis e Ferramentas](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20o%20que%20%C3%A9%20experi%C3%AAncia%20de%20usu%C3%A1rio/6.%20Entreg%C3%A1veis%20e%20ferramentas.md)
     
-    + Entregáveis de UX 
+   + Entregáveis de UX 
     
-    + Ferramnetas de UX
+   + Ferramnetas de UX
     
 <br>
 
 [7. Escolhendo um caminho](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20o%20que%20%C3%A9%20experi%C3%AAncia%20de%20usu%C3%A1rio/7.%20Decidindo%20o%20caminho%20com%20Zen%20Voting.md)
     
-    + Zen Voting
+   + Zen Voting
 
 <br>
 
 [8. Resumo](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20o%20que%20%C3%A9%20experi%C3%AAncia%20de%20usu%C3%A1rio/8.%20Resumo.md)
     
-    + Resumo do que foi estudo no curso
+   + Resumo do que foi estudo no curso
 
