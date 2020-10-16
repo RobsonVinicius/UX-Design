@@ -1,4 +1,4 @@
-<img src="images/header.png" align="right" width="250">
+<img src="images/header.png" align="right" width="300">
 
 
 
