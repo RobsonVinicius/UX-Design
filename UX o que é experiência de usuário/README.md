@@ -1,3 +1,7 @@
+<img src="images/header.png" align="right" width="250">
+
+
+
 # UX O que é Experiência de usuário
 
 <br>
@@ -6,7 +10,7 @@
 
 🔗 [Curso: UX o que é experiência de usuário (Alura)](https://www.alura.com.br/curso-online-ux-base) 
 
-👨‍🏫  **Instrutor:** Natan Souza - UX Designer | Linkedin: https://www.linkedin.com/in/designernatan
+👨‍🏫  **Instrutor:** Natan Souza - UX Designer <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Linkedin: https://www.linkedin.com/in/designernatan
 
 <br>
 
