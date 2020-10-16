@@ -1,6 +1,6 @@
 <img src="images/header.png" align="left" width="250">
 
-&nbsp;&nbsp;#UX: O que é experiência de Usuário
+# UX: O que é experiência de Usuário
 
 <br>
 
