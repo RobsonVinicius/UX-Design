@@ -4,11 +4,11 @@
 
 <br>
 
-📚 Está pasta é uma documentação do curso de UX Base realizado na [Alura](https://www.alura.com.br) 
+📚 &nbsp; Está pasta é uma documentação do curso de UX Base realizado na [Alura](https://www.alura.com.br) 
 
-🔗 [Curso: UX o que é experiência de usuário (Alura)](https://www.alura.com.br/curso-online-ux-base) 
+🔗 &nbsp; [Curso: UX o que é experiência de usuário (Alura)](https://www.alura.com.br/curso-online-ux-base) 
 
-👨‍🏫  **Instrutor:** Natan Souza - UX Designer <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Linkedin: https://www.linkedin.com/in/designernatan
+👨‍🏫  &nbsp; **Instrutor:** Natan Souza - UX Designer <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Linkedin: https://www.linkedin.com/in/designernatan
 
 <br><br><br>
 
