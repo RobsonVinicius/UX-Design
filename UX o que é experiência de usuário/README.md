@@ -1,4 +1,4 @@
-<img src="images/header.png" align="left" width="280">
+<img src="images/header.png" align="left" width="250">
 
 # UX: O que é experiência de Usuário
 
