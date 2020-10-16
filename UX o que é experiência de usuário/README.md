@@ -18,13 +18,13 @@
 
 [1. Introdução: O que é UX?](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20o%20que%20%C3%A9%20experi%C3%AAncia%20de%20usu%C3%A1rio/1.%20O%20que%20%C3%A9%20UX.md)
 
-    O que é UX
+   +  O que é UX
   
-    O que é Experiência
+   + O que é Experiência
   
-    O que é Usuário 
+   + O que é Usuário 
   
-    A Importância da UX
+   + A Importância da UX
 
 <br>
 
