@@ -2,6 +2,8 @@
 
 # UX: O que é experiência de Usuário
 
+<br>
+
 📚 Está pasta é uma documentação do curso de UX Base realizado na [Alura](https://www.alura.com.br) 
 
 🔗 [Curso: UX o que é experiência de usuário (Alura)](https://www.alura.com.br/curso-online-ux-base) 
