@@ -39,6 +39,12 @@
 
 <br>
 
+## 📰 Posts
+
++ [Blog Caelum - Entendendo o usuário com proto-persona](https://blog.caelum.com.br/entendendo-usuario-proto-persona/)
+
+<br>
+
 ## ✏️ Documentação de Estudo:
 
 
