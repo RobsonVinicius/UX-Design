@@ -36,6 +36,8 @@
 + edX (https://www.edx.org/learn/user-experience-ux)
 + Mergo (https://www.mergo.com.br/)
 + Mercedes Sanchez - Treinamento UX-PM Certification (https://mercedessanchez.com.br/pt/treinamento)
++ Wildtech - Agile UX (http://www.wildtech.com.br/agile-ux)
+
 
 <br>
 
