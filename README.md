@@ -44,6 +44,7 @@
 ## 📰 Posts
 
 + [Blog Caelum - Entendendo o usuário com proto-persona](https://blog.caelum.com.br/entendendo-usuario-proto-persona/)
++ [MVP é coisa do passado a moda agora é MLP](https://medium.com/collabcode/mvp-%C3%A9-coisa-do-passado-a-moda-agora-%C3%A9-mlp-4446fc476006#.ftdr8maco)
 
 <br>
 
