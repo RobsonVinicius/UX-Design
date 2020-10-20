@@ -41,7 +41,6 @@
 + Wildtech - Agile UX (http://www.wildtech.com.br/agile-ux)
 
 
-
 <br>
 
 ## 📜 Certificação
@@ -54,6 +53,9 @@
 
 + [Blog Caelum - Entendendo o usuário com proto-persona](https://blog.caelum.com.br/entendendo-usuario-proto-persona/)
 + [MVP é coisa do passado a moda agora é MLP](https://medium.com/collabcode/mvp-%C3%A9-coisa-do-passado-a-moda-agora-%C3%A9-mlp-4446fc476006#.ftdr8maco)
++ [Crazy Eights - Uma técnica rápida e visual para explorar ideias com seu time](https://blog.caelum.com.br/crazy-eights-uma-tecnica-rapida-e-visual-para-explorar-ideias-com-seu-time/)
++ [The product design sprint: diverge (day 2)](https://library.gv.com/the-product-design-sprint-diverge-day-2-c7a5df8e7cd0)
+
 
 <br>
 
@@ -62,6 +64,7 @@
 + [Don Norman: O termo "UX"](https://www.youtube.com/watch?v=9BdtGjoIN4E&ab_channel=NNgroup)
 + [What is Human-Centered Design? ](https://www.youtube.com/watch?v=KkUor_NTuDA&ab_channel=Interaction-Design.org)
 + [O que é e o que faz quem trabalha com UX? User Experience e Usabilidade](https://www.youtube.com/watch?v=FJhMCi07T4A&ab_channel=AluraCursosOnline)
+
 
 <br>
 
