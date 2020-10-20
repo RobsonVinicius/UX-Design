@@ -52,6 +52,11 @@
 ## 🎞️ Vídeos
 
 + [Don Norman: O termo "UX"](https://www.youtube.com/watch?v=9BdtGjoIN4E&ab_channel=NNgroup)
++ [What is Human-Centered Design?](https://www.youtube.com/watch?v=KkUor_NTuDA&ab_channel=Interaction-Design.org
++ [O que é e o que faz quem trabalha com UX? User Experience e Usabilidade](https://www.youtube.com/watch?v=FJhMCi07T4A&ab_channel=AluraCursosOnline)
+
+<br>
+
 
 ## ✏️ Documentação de Estudo:
 
