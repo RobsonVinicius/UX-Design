@@ -81,4 +81,4 @@
   + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos 
 
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="100" height="100" />
