@@ -34,10 +34,19 @@
 ## 🎓 Cursos
 
 + Interaction Design Foundation (https://www.interaction-design.org/)
++ NN Group (https://www.nngroup.com/training/)
 + edX (https://www.edx.org/learn/user-experience-ux)
 + Mergo (https://www.mergo.com.br/)
 + Mercedes Sanchez - Treinamento UX-PM Certification (https://mercedessanchez.com.br/pt/treinamento)
 + Wildtech - Agile UX (http://www.wildtech.com.br/agile-ux)
+
+
+
+<br>
+
+## 📜 Certificação
+
++ https://www.nngroup.com/ux-certification/
 
 <br>
 
