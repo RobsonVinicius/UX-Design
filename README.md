@@ -39,7 +39,6 @@
 + Mercedes Sanchez - Treinamento UX-PM Certification (https://mercedessanchez.com.br/pt/treinamento)
 + Wildtech - Agile UX (http://www.wildtech.com.br/agile-ux)
 
-
 <br>
 
 ## 📰 Posts
