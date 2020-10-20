@@ -79,3 +79,6 @@
 + **UX Strategy: divergindo e afunilando ideias**
   + Acesse a pasta > UX Strategy: divergindo e afunilando ideias
   + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos 
+
+
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
