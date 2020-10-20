@@ -49,6 +49,10 @@
 
 <br>
 
+## 🎞️ Vídeos
+
++ [Don Norman: O termo "UX"](https://www.youtube.com/watch?v=9BdtGjoIN4E&ab_channel=NNgroup)
+
 ## ✏️ Documentação de Estudo:
 
 
