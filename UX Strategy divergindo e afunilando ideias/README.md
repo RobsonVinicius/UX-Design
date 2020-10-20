@@ -179,6 +179,7 @@
 
    + [Livro] Leitura Complementar
 
+<br>
 
 [9. Uma nova ferramenta](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20Strategy%20divergindo%20e%20afunilando%20ideias/9.%20UX%20Canvas.md)
 
@@ -190,6 +191,7 @@
 
    + [Exercício] Proposta de experiência
 
+<Br>
 
 [10. MVP e MLP](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20Strategy%20divergindo%20e%20afunilando%20ideias/10.%20MVP%20e%20MLP.md)
 
@@ -213,6 +215,7 @@
 
    + [Exercício] MLP (Produto Mínimo Adorável
 
+<br>
 
 [11. Features](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20Strategy%20divergindo%20e%20afunilando%20ideias/11.%20Features.md)
 
