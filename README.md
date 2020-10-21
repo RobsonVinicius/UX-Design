@@ -58,6 +58,9 @@
 + [MVP é coisa do passado a moda agora é MLP](https://medium.com/collabcode/mvp-%C3%A9-coisa-do-passado-a-moda-agora-%C3%A9-mlp-4446fc476006#.ftdr8maco)
 + [Crazy Eights - Uma técnica rápida e visual para explorar ideias com seu time](https://blog.caelum.com.br/crazy-eights-uma-tecnica-rapida-e-visual-para-explorar-ideias-com-seu-time/)
 + [The product design sprint: diverge (day 2)](https://library.gv.com/the-product-design-sprint-diverge-day-2-c7a5df8e7cd0)
++ [10 heurísticas de Nielsen: Uma fórmula pra evitar erros básicos de usabilidade.](https://blog.caelum.com.br/10-heuristicas-de-nielsen-uma-formula-pra-evitar-erros-basicos-de-usabilidade/)
+
+
 
 
 <br>
