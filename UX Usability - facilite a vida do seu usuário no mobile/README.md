@@ -2,7 +2,6 @@
 
 # UX Usability: facilite do seu usuário no mobile
 
-<br>
 
 📚 &nbsp; Está pasta é uma documentação do curso de UX Usability realizado na [Alura](https://www.alura.com.br) 
 
