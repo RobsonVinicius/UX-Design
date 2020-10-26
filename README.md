@@ -61,6 +61,7 @@
 + [The product design sprint: diverge (day 2)](https://library.gv.com/the-product-design-sprint-diverge-day-2-c7a5df8e7cd0)
 + [10 heurísticas de Nielsen: Uma fórmula pra evitar erros básicos de usabilidade.](https://blog.caelum.com.br/10-heuristicas-de-nielsen-uma-formula-pra-evitar-erros-basicos-de-usabilidade/)
 + [Enriquecendo seus sistemas com micro-interactions](https://blog.caelum.com.br/enriquecendo-seus-sistemas-com-microinteractions/)
++ [Hotjar - 8 Heatmap Tests that reveal visitor behavior](https://www.hotjar.com/heatmaps)
 
 <br>
 
