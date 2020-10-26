@@ -20,6 +20,7 @@
 + **Gamestorming – Jogos Corporativos Para Mudar, Inovar e Quebrar Regras** - Dave Gray, Sunni Brown, James Macanufo
 + **Sprint: o Método Usado No Google Para Testar e Aplicar Novas Ideias Em Apenas Cinco Dias** - Jake Knapp
 + **UX Strategy: How to Devise Innovative Digital Products that People Want** - Jaime Levy 
++ **Microinteractions** - Dan Saffer
 
 <br>
 
