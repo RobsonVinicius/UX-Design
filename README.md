@@ -31,6 +31,8 @@
 + Coletivo UX (https://coletivo.com)
 + UX Booth (https://www.uxbooth.com/articles/)
 + UX Magazine (https://uxmag.com/)
++ UX Planet (https://uxplanet.org/)
++ UX Pin (https://www.uxpin.com/studio/blog)
 
 
 <br>
