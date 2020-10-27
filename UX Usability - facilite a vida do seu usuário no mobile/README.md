@@ -2,7 +2,6 @@
 
 # UX Usability: facilite do seu usuário no mobile
 
-<br>
 
 📚 &nbsp; Está pasta é uma documentação do curso de UX Usability realizado na [Alura](https://www.alura.com.br) 
 
@@ -16,227 +15,123 @@
 
 <br>
 
-[1. Tendo uma estratégia](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20Strategy%20divergindo%20e%20afunilando%20ideias/1.%20Tendo%20uma%20estrat%C3%A9gia.md)
+[1. Ideias: da cabeça ao papel](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20Usability%20-%20facilite%20a%20vida%20do%20seu%20usu%C3%A1rio%20no%20mobile/1.%20Ideias%20da%20cabe%C3%A7a%20ao%20papel.md)
 
-   + Introdução
+   + Crazy eights
   
-   + O que é estratégia?
+   + Segundo crazy eights
   
-   + Sair desenhando telas
+   + Interações e ícones
   
-   + Comunicar visualmente
+   + Decidindo telas com Zen Voting
 
-   + Seu problema
+   + [Situação] Reunião com o cliente
+   
+   + Crazy eights em 5 minutos
+   
+   + Crazy eights em 15 minutos
+   
+   + Iconografia de interação e feedback
 
 <br>
 
-[2. Divergindo Ideias](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20Strategy%20divergindo%20e%20afunilando%20ideias/2.%20Divergindo%20Ideias.md)
+[2. Ferramentas de prototipação](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20Usability%20-%20facilite%20a%20vida%20do%20seu%20usu%C3%A1rio%20no%20mobile/2.%20Ferramentas%20de%20prototipa%C3%A7%C3%A3o.md)
     
-   + Viabilidade, Capacidade e Desejabilidade
+   + Introdução Marvel (POP app)
     
-   + Triângulo de Ouro ou Triângulo de Keeley
+   + POP: Prototype on Paper (Adquirido pela Marvel)
 
-   + 360 View
+   + Marvel design
 
-   + Duolingo e exercício
+   + Mais ferramentas
 
-   + Pontos Chaves
+   + Ferramentas de UX
 
-   + Desejabilidade
-
-   + Pontos negativos
-
-   + Recursos e pessoas
-
-   + Keeley vs 360
+   + [Curso] UX Design com Axure
 
 <br>
 
-[3. Entendendo o usuário](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20Strategy%20divergindo%20e%20afunilando%20ideias/3.%20Entendendo%20o%20usu%C3%A1rio.md)
+[3. Primeiras heurísticas de Nielsen](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20Usability%20-%20facilite%20a%20vida%20do%20seu%20usu%C3%A1rio%20no%20mobile/3.%20Primeiras%20heur%C3%ADsticas%20de%20Nielsen.md)
   
-   + Entendendo o usuário
+   + Feedback
       
-   + Proto-persona
+   + Linguagem do usuário
 
-   + Nota: Entendendo o usuário
+   + Padrões
 
-   + Proto-persona (Exercício)
+   + Boas mensagens de erro
 
-   + Proto-persona mais textual
+   + Resumo
 
-   + [Post] Leitura complementar e exemplos
-
-<br>
-
-[4. Definindo o roteiro](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20Strategy%20divergindo%20e%20afunilando%20ideias/4.%20Definindo%20o%20roteiro.md)
-    
-   + Pesquisar e tipos de pesquisas
-    
-   + Método de pesquisa: Observação
-    
-   + Outros métodos: questionário, card sorting e teste A/B
-    
-   + Método de pesquisa: entrevista
-
-   + Processos de uma entrevista
-
-   + Roteiro de entrevista
-
-   + Pesquisa (Exercício)
-
-   + Método de pesquisa / Kopenhagen (Exercício)
-
-   + Um grande volume de dados (Exercício)
-
-   + Pesquisa aberta e fechada
-
-   + Se colocando no lugar do outro (Exercício)
+   + [Exercício] O que está acontecendo?
+   
+   + [Exercício] App para crianças
+   
+   + [Exercício] Ops! Cancela, cancela!
+   
+   + [Exercício] Cada um faz de um jeito
+   
+   + [Exercício] 0x80070570 (erro) Boas Mensagens de erro
 
 <br>
 
-[5. Indo atrás do usuário](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20Strategy%20divergindo%20e%20afunilando%20ideias/5.%20Indo%20atr%C3%A1s%20do%20usu%C3%A1rio.md)
+[4. Mais heurísticas](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20Usability%20-%20facilite%20a%20vida%20do%20seu%20usu%C3%A1rio%20no%20mobile/4.%20Mais%20heur%C3%ADsticas.md)
+    
+   + Memória limitada
+    
+   + Ajuda
+    
+   + Minimalismo e flexibilidade
+    
+   + Resumo
 
-   + Como conduzir uma entrevista
+   + [Exercício] Qual era a música?
+
+   + [Leitura] Breadcrumb
+
+   + [Exercício] Mais rápido
+
+<br>
+
+[5. Facilitar o uso (Fitts, Hick, Thumb Zone)](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20Usability%20-%20facilite%20a%20vida%20do%20seu%20usu%C3%A1rio%20no%20mobile/5.%20Facilitar%20o%20uso%20(Fitts%2C%20Hick%2C%20Thumb%20Zone).md)
+
+   + Lei de Fitts
   
-   + Dicas para entrevista
+   + Sobre Hicks
 
-   + Número bom de entrevistas
+   + Thumb Zone
 
-   + Utilidade da pesquisa
+   + Microinteractions
 
-   + [Post] Leitura complementar
+   + Exemplos de microinteractions
 
-   + Entendendo o usuário (Exercício)
+   + [Exercício] Escolhendo rápido
 
-   + Motivo da pesquisa
+   + [Leitura] Qual gravata escolher?
+   
+   + [Exercício] A até B
+   
+   + [Exercício] Pensando na ergonomia
+   
+   + [Leitura] Foco e diferencial
    
   
 <br>
 
-[6. Materializando o usuário](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20Strategy%20divergindo%20e%20afunilando%20ideias/6.%20Materializando%20o%20usu%C3%A1rio.md)
+[6. Dicas finais](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20Usability%20-%20facilite%20a%20vida%20do%20seu%20usu%C3%A1rio%20no%20mobile/6.%20Dicas-finais.md)
     
-   + Identificando padrões
+   + Affordance cal to action
 
-   + Persona
+   + Microtexto
 
-   + Quando personas mudam e outras ferramentas
-
-   + Persona Primária
-
-   + Resultados obtidos, e agora? (Exercício)
-
-   + Persona vs proto-persona (Exercício)
-
-   + Caracterizando a persona
-
-   + Persona complementar 1 (Exercício)
-
-   + Persona complementar 2 (Exercício)
-
-   + Persona complementar 3 (Exercício)
-
-   + [Ferramenta] Gerador de personas
-
-   + Sua opinião
-
-   + Personas para todos
-    
-<br>
-
-[7. Mais empatia e mais valor](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20Strategy%20divergindo%20e%20afunilando%20ideias/7.%20Mais%20empatia%20e%20mais%20valor.md)
-    
-   + Empatia
-
-   + Tarefas de usuários
-
-   + Value Proposition Canvas
-
-   + Mapa de empatia
-
-   + Informações do Mapa
-
-   + [Exercício] Na pele do usuário
-
-   + [Exercício] Proposta de Valor
-
-   + [Curso] Business Model Canvas
-
-<br>
-
-[8. Cenário e histórias](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20Strategy%20divergindo%20e%20afunilando%20ideias/8.%20Cen%C3%A1rios%20e%20hist%C3%B3rias.md)
-    
-   + Cenário
-
-   + História de usuário
-
-   + [Exercício] Narrativas rápidas
-
-   + [Exercício] Problema no cenário
-
-   + [Exercício] História de usuário
-
-   + [Exercício] Perguntas de uma história de usuário
-
-   + [Livro] Leitura Complementar
-
-<br>
-
-[9. Uma nova ferramenta](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20Strategy%20divergindo%20e%20afunilando%20ideias/9.%20UX%20Canvas.md)
-
-   + UX Canvas
-
-   + [Exercício] Objetivo do UX Canvas
-
-   + [Nota] O cliente
-
-   + [Exercício] Proposta de experiência
-
-<Br>
-
-[10. MVP e MLP](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20Strategy%20divergindo%20e%20afunilando%20ideias/10.%20MVP%20e%20MLP.md)
-
-   + Waterfall
-
-   + Cases
-
-   + Entendendo o MLP
-
-   + [Exercício] Muitas features
-
-   + [Curso] MVP
-
-   + [Exercício] MVP para dividir conta
-
-   + [Nota] MVP do Uber
-
-   + [Ferramenta] Launchrock
-
-   + [Post] Leitura complementar - Cases MVP
-
-   + [Exercício] MLP (Produto Mínimo Adorável
-
-<br>
-
-[11. Features](https://github.com/RobsonVinicius/UX-Design/blob/main/UX%20Strategy%20divergindo%20e%20afunilando%20ideias/11.%20Features.md)
-
-   + Pensando nas funcionalidades
-
-   + Esforço e valor
-
-   + Canvas MVP
-
-   + Mapa geral do curso / resumo
-
-   + [Nota] Objetivos do usuário
-
-   + [Exercício] Detalhes da funcionalidade
-
-   + [Exercício] Importância para o negócio
-
-   + [Nota] Canvas valor e esforço
-
-   + [Livros] Leitura Complementar
+   + Campo de Busca
    
-   + [Ferramenta] Mural.co
+   + Tipografia
 
-   + [Nota] Feedback
+   + Overview do Curso
+
+   + [Leitura] Affordance
+
+   + [Exercício] Guiando o usuário
+
+   + [Leitura] Grupos de tipos
