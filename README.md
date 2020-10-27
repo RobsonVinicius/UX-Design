@@ -76,6 +76,11 @@
 
 <br>
 
+## 🎤 Paletras
+
++ [Elisa Volpato | TESTR](https://www.youtube.com/watch?v=kRRrXg-re98)
+
+<br>
 
 ## ✏️ Documentação de Estudo:
 
