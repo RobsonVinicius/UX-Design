@@ -98,4 +98,9 @@
 + **UX Usability: facilite a vida do seu usuário no mobile**
   + Acesse a pasta > UX Usability: facilite a vida do seu usuário no mobile
   + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos 
+<br>  
+  
++ **UX Produto: monitore, mensure e teste o seu projeto**
+  + Acesse a pasta > UX Produto: monitore, mensure e teste o seu projeto
+  + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos 
 
