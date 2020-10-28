@@ -2,8 +2,6 @@
 
 # UX Produto: monitore, mensure e teste o seu projeto
 
-<br>
-
 📚 &nbsp; Está pasta é uma documentação do curso de UX Produto realizado na [Alura](https://www.alura.com.br) 
 
 🔗 &nbsp; [Curso: UX Produto: monitore, mensure e teste o seu projeto (Alura)](https://www.alura.com.br/curso-online-ux-melhorias-de-produto) 
