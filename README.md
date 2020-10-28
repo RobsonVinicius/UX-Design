@@ -89,6 +89,8 @@
   + Acesse a pasta > UX o que é experiência de usuário
   + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos
 
+<br>
+
 + **UX Strategy: divergindo e afunilando ideias**
   + Acesse a pasta > UX Strategy: divergindo e afunilando ideias
   + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos 
