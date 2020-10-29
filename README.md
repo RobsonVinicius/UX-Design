@@ -33,6 +33,7 @@
 + UX Magazine (https://uxmag.com/)
 + UX Planet (https://uxplanet.org/)
 + UX Pin (https://www.uxpin.com/studio/blog)
++ UX Ness (http://www.uxness.in/)
 
 
 <br>
