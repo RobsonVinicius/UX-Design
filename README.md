@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
  
  ![UX Design Header Readme](imagens/ux-design.png)
 
