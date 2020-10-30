@@ -87,17 +87,17 @@
 ## ✏️ Documentação de Estudo:
 
 
-1. **UX o que é experiência de usuário**
++ **UX o que é experiência de usuário**
   + Acesse a pasta > UX o que é experiência de usuário
   + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos
 <br>
 
-2. **UX Strategy: divergindo e afunilando ideias**
++ **UX Strategy: divergindo e afunilando ideias**
   + Acesse a pasta > UX Strategy: divergindo e afunilando ideias
   + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos 
 <br>
 
-3. **UX Usability: facilite a vida do seu usuário no mobile**
++ **UX Usability: facilite a vida do seu usuário no mobile**
   + Acesse a pasta > UX Usability: facilite a vida do seu usuário no mobile
   + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos 
 <br>  
