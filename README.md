@@ -80,7 +80,7 @@
 ## 🎤 Paletras
 
 + [Elisa Volpato | TESTR](https://www.youtube.com/watch?v=kRRrXg-re98)
-. [Lilly Anna | Designalily](https://www.youtube.com/watch?v=l6fAfiE6eVg&t=1177s&fbclid=IwAR3JYQZMPknuRTsDZXp8GHZ_dE5HxF4m0SelrbYuI7AX0H1BkWIYpCt76S0&ab_channel=Designalily)
++ [Lilly Anna | Designalily](https://www.youtube.com/watch?v=l6fAfiE6eVg&t=1177s&fbclid=IwAR3JYQZMPknuRTsDZXp8GHZ_dE5HxF4m0SelrbYuI7AX0H1BkWIYpCt76S0&ab_channel=Designalily)
 
 <br>
 
