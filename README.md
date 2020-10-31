@@ -108,6 +108,6 @@
 <br>
 
 + **Revisão UX: Ferramentas do briefing ao protótipo**
-  + Acesse a pasta > UX Produto: monitore, mensure e teste o seu projeto
+  + Acesse a pasta > Revisão UX - Ferramentas do briefing ao protótipo
   + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos 
 
