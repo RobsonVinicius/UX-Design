@@ -2,11 +2,11 @@
 
 # Revisão UX: Ferramentas do briefing ao protótipo
 
-📚 &nbsp; Está pasta é uma documentação do curso de Revisão UX realizado na [Alura](https://www.alura.com.br) 
+&nbsp; 📚 &nbsp; Está pasta é uma documentação do curso de Revisão UX realizado na [Alura](https://www.alura.com.br) 
 
-🔗 &nbsp; [Curso: Revisão UX: ferramentas do briefing ao protótipo (Alura)](https://www.alura.com.br/conteudo/ux-do-briefing-ao-prototipo) 
+&nbsp; 🔗 &nbsp; [Curso: Revisão UX: ferramentas do briefing ao protótipo (Alura)](https://www.alura.com.br/conteudo/ux-do-briefing-ao-prototipo) 
 
-👨‍🏫  &nbsp; **Instrutor:** Priscila Sonnesso - UX Designer <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp; Linkedin: https://www.linkedin.com/in/priscilasonnesso/
+&nbsp; 👨‍🏫  &nbsp; **Instrutor:** Priscila Sonnesso - UX Designer <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp; Linkedin: https://www.linkedin.com/in/priscilasonnesso/
 
 <br><br>
 
