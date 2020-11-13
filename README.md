@@ -65,6 +65,7 @@
 + [10 heurísticas de Nielsen: Uma fórmula pra evitar erros básicos de usabilidade.](https://blog.caelum.com.br/10-heuristicas-de-nielsen-uma-formula-pra-evitar-erros-basicos-de-usabilidade/)
 + [Enriquecendo seus sistemas com micro-interactions](https://blog.caelum.com.br/enriquecendo-seus-sistemas-com-microinteractions/)
 + [Hotjar - 8 Heatmap Tests that reveal visitor behavior](https://www.hotjar.com/heatmaps)
++ [UX e CRO: qual a relação das duas áreas?](https://www.alura.com.br/artigos/ux-e-cro?utm_source=gnarus&utm_medium=timeline)
 
 <br>
 
