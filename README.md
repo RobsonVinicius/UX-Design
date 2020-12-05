@@ -57,7 +57,7 @@
 
 <br>
 
-## 📰 Posts
+## 📰 Posts / Artigos
 
 + [Blog Caelum - Entendendo o usuário com proto-persona](https://blog.caelum.com.br/entendendo-usuario-proto-persona/)
 + [MVP é coisa do passado a moda agora é MLP](https://medium.com/collabcode/mvp-%C3%A9-coisa-do-passado-a-moda-agora-%C3%A9-mlp-4446fc476006#.ftdr8maco)
@@ -67,6 +67,8 @@
 + [Enriquecendo seus sistemas com micro-interactions](https://blog.caelum.com.br/enriquecendo-seus-sistemas-com-microinteractions/)
 + [Hotjar - 8 Heatmap Tests that reveal visitor behavior](https://www.hotjar.com/heatmaps)
 + [UX e CRO: qual a relação das duas áreas?](https://www.alura.com.br/artigos/ux-e-cro?utm_source=gnarus&utm_medium=timeline)
++ [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
+
 
 <br>
 
