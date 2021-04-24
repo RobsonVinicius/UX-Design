@@ -28,7 +28,7 @@
 
 + ux.blog | Mergo (https://uxdesign.blog.br/)
 + UX Collective (https://brasil.uxdesign.cc)
-+ Coletivo UX (https://coletivo.com)
++ Coletivo UX (https://coletivoux.com/)
 + UX Booth (https://www.uxbooth.com/articles/)
 + UX Magazine (https://uxmag.com/)
 + UX Planet (https://uxplanet.org/)
