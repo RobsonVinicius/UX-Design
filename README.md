@@ -47,6 +47,10 @@
 + Awari (https://awari.com.br/curso-ux-design/)
 + Mercedes Sanchez - Treinamento UX-PM Certification (https://mercedessanchez.com.br/pt/treinamento)
 + Wildtech - Agile UX (http://www.wildtech.com.br/agile-ux)
++ Alura - UX Design (https://www.alura.com.br/cursos-online-design-ux)
+
+
+
 
 
 <br>
