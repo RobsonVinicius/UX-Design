@@ -72,6 +72,7 @@
 + [Hotjar - 8 Heatmap Tests that reveal visitor behavior](https://www.hotjar.com/heatmaps)
 + [UX e CRO: qual a relação das duas áreas?](https://www.alura.com.br/artigos/ux-e-cro?utm_source=gnarus&utm_medium=timeline)
 + [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
++ [O que é UX – User Experience](https://www.hostinger.com.br/tutoriais/ux-o-que-e-user-experience)
 
 
 <br>
