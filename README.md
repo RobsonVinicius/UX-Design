@@ -76,6 +76,12 @@
 
 <br>
 
+## 📌 Redes Sociais
++ [UX Design Mastery](https://www.instagram.com/uxdesignmastery/)
+
+
+<br>
+
 ## 🎞️ Vídeos
 
 + [Don Norman: O termo "UX"](https://www.youtube.com/watch?v=9BdtGjoIN4E&ab_channel=NNgroup)
