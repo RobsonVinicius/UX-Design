@@ -73,6 +73,7 @@
 + [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
 + [O que é UX – User Experience](https://www.hostinger.com.br/tutoriais/ux-o-que-e-user-experience)
 + [O usuário orientado a objetos](https://brasil.uxdesign.cc/o-usu%C3%A1rio-orientado-a-objetos-643aa3a4f643)
++ [Princípios de Design para a Web3](https://brasil.uxdesign.cc/principios-de-design-para-a-web3-a3e122cbf6a2)
 
 <br>
 
