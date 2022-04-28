@@ -79,6 +79,7 @@
 
 ## 📌 Redes Sociais
 + [UX Design Mastery](https://www.instagram.com/uxdesignmastery/)
++ [UX Designer World Collective](https://www.instagram.com/uxdesigner.world/)
 
 
 <br>
