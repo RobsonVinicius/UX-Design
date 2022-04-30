@@ -81,7 +81,7 @@
 + [UX Design Mastery](https://www.instagram.com/uxdesignmastery/)
 + [UX Designer World Collective](https://www.instagram.com/uxdesigner.world/)
 + [Nina Talks](https://www.instagram.com/nina_talks/)
-
++ [UX Bucket](https://www.instagram.com/uxbucket/)
 
 
 <br>
