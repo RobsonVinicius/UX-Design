@@ -82,6 +82,7 @@
 + [UX Designer World Collective](https://www.instagram.com/uxdesigner.world/)
 + [Nina Talks](https://www.instagram.com/nina_talks/)
 + [UX Bucket](https://www.instagram.com/uxbucket/)
++ [UX Unicornio](https://www.instagram.com/uxunicornio/?hl=pt)
 
 
 <br>
