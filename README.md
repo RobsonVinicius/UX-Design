@@ -21,6 +21,7 @@
 + **Sprint: o Método Usado No Google Para Testar e Aplicar Novas Ideias Em Apenas Cinco Dias** - Jake Knapp
 + **UX Strategy: How to Devise Innovative Digital Products that People Want** - Jaime Levy 
 + **Microinteractions** - Dan Saffer
++ **Articulando Decisões de Design: Converse com os Stakeholders, Mantenha sua Sanidade e Crie a Melhor Experiência do Usuário** - Tom Greever
 
 <br>
 
