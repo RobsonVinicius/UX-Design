@@ -104,6 +104,12 @@
 
 <br>
 
+## 📝Glossário
+
++ [Glossário Essencial para UX Designers: áreas correlatas](https://uxdesign.blog.br/gloss%C3%A1rio-essencial-para-ux-designers-%C3%A1reas-correlatas-7447fb88ee7d)
+
+<br>
+
 ## ✏️ Documentação de Estudo:
 
 
