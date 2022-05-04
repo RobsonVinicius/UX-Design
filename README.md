@@ -107,6 +107,7 @@
 ## 📝Glossário
 
 + [Glossário Essencial para UX Designers: áreas correlatas](https://uxdesign.blog.br/gloss%C3%A1rio-essencial-para-ux-designers-%C3%A1reas-correlatas-7447fb88ee7d)
++ [Glossário Essencial para UX Designers: ferramentas](https://uxdesign.blog.br/gloss%C3%A1rio-essencial-para-ux-designers-ferramentas-722dc29a0386)
 
 <br>
 
