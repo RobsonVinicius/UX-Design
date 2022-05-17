@@ -119,26 +119,26 @@
 
 
 + **UX o que é experiência de usuário**
-  + Acesse a pasta > Docs Estudo > UX o que é experiência de usuário
+  + Acesse a pasta > Docs Estudos > UX o que é experiência de usuário
   + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos
 <br>
 
 + **UX Strategy: divergindo e afunilando ideias**
-  + Acesse a pasta > Docs Estudo > UX Strategy: divergindo e afunilando ideias
+  + Acesse a pasta > Docs Estudos > UX Strategy: divergindo e afunilando ideias
   + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos 
 <br>
 
 + **UX Usability: facilite a vida do seu usuário no mobile**
-  + Acesse a pasta > Docs Estudo > UX Usability: facilite a vida do seu usuário no mobile
+  + Acesse a pasta > Docs Estudos > UX Usability: facilite a vida do seu usuário no mobile
   + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos 
 <br>  
   
 + **UX Produto: monitore, mensure e teste o seu projeto**
-  + Acesse a pasta > Docs Estudo > UX Produto: monitore, mensure e teste o seu projeto
+  + Acesse a pasta > Docs Estudos > UX Produto: monitore, mensure e teste o seu projeto
   + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos 
 <br>
 
 + **Revisão UX: Ferramentas do briefing ao protótipo**
-  + Acesse a pasta > Docs Estudo > Revisão UX - Ferramentas do briefing ao protótipo
+  + Acesse a pasta > Docs Estudos > Revisão UX - Ferramentas do briefing ao protótipo
   + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos 
 
