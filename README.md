@@ -115,6 +115,12 @@
 
 <br>
 
+## 📑 Estudo
+
++ [Laws of UX](https://lawsofux.com/)
+
+<br>
+
 ## ✏️ Documentação de Estudo:
 
 
