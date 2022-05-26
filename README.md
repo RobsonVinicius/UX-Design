@@ -118,6 +118,7 @@
 ## 📑 Estudo
 
 + [Laws of UX](https://lawsofux.com/)
++ [UX Archive](https://uxarchive.com/)
 
 <br>
 
