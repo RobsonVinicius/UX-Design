@@ -149,4 +149,23 @@
 + **Revisão UX: Ferramentas do briefing ao protótipo**
   + Acesse a pasta > Docs Estudos > Revisão UX - Ferramentas do briefing ao protótipo
   + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos 
+<br>
 
++ **UX - Os erros frequentes de usabilidade e as boas práticas**
+  + Acesse a pasta > Docs Estudos > UX - Os erros frequentes de usabilidade e as boas práticas
+  + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos 
+<br>
+
++ **Teste de Usabilidade 1 - Seu produto é fácil de usar**
+  + Acesse a pasta > Docs Estudos > Teste de Usabilidade 1 - Seu produto é fácil de usar
+  + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos 
+<br>
+
++ **Teste de Usabilidade 2 - Mensurando e entregando resultados**
+  + Acesse a pasta > Docs Estudos > Teste de Usabilidade 2 - Mensurando e entregando resultados
+  + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos 
+<br>
+
++ **Design System - escalando seu produto**
+  + Acesse a pasta > Docs Estudos > Design System - escalando seu produto
+  + Clique nos links de cada tópico no README.md da pasta para acessar<br> a documentação pertinente organizada por capítulos 
