@@ -121,6 +121,7 @@
 + [UX Archive](https://uxarchive.com/)
 + [Humane by Design](https://humanebydesign.com/)
 + [Learn UX](https://learnux.io/)
++ [UX Starter Pack](https://uxstarterpack.com/)
 
 <br>
 
