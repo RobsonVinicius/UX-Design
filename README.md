@@ -77,6 +77,7 @@
 + [Princípios de Design para a Web3](https://brasil.uxdesign.cc/principios-de-design-para-a-web3-a3e122cbf6a2)
 + [UX Pode deixar de existir como cargo?](https://brasil.uxdesign.cc/ux-pode-deixar-de-existir-como-cargo-f10e333dcd01)
 + [Como criar uma boa proposta de valor para o seu produto](https://uxdesign.blog.br/como-criar-uma-boa-proposta-de-valor-para-o-seu-produto-67b2188df4af)
++ [What is UX Writing after all?](https://bootcamp.uxdesign.cc/what-is-ux-writing-afterall-a0cd8f175668)
 
 
 <br>
