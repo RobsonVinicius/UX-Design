@@ -35,6 +35,7 @@
 + UX Planet (https://uxplanet.org/)
 + UX Pin (https://www.uxpin.com/studio/blog)
 + UX Ness (http://www.uxness.in/)
++ Career Foundry (https://careerfoundry.com/en/blog/ux-design/)
 
 
 <br>
