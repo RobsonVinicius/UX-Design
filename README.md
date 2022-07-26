@@ -80,7 +80,7 @@
 + [UX Pode deixar de existir como cargo?](https://brasil.uxdesign.cc/ux-pode-deixar-de-existir-como-cargo-f10e333dcd01)
 + [Como criar uma boa proposta de valor para o seu produto](https://uxdesign.blog.br/como-criar-uma-boa-proposta-de-valor-para-o-seu-produto-67b2188df4af)
 + [What is UX Writing after all?](https://bootcamp.uxdesign.cc/what-is-ux-writing-afterall-a0cd8f175668)
-
++ [Os usuários realmente não leem? - UX Collective 🇧🇷](https://brasil.uxdesign.cc/os-usu%C3%A1rios-realmente-n%C3%A3o-leem-361c823a78a9)
 
 <br>
 
