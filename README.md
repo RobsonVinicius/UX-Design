@@ -9,7 +9,7 @@
 
 ## 📚  Livros: 
  
-+ **O Design do Dia a Dia** - Donald A.Norman
++ [**O Design do Dia a Dia** - Donald A.Norman](https://amzn.to/3E4GWeJ) | [Versão para Kindle](https://amzn.to/3LY9NmQ)
 + **Não me Faça Pensar** - Steve Krug
 + **Usabilidade na Web** - Jakob Nielsen & Hoa Loranger
 + **A Project Guide To UX Design** - Russ Unger and Carolyn Chandler 
