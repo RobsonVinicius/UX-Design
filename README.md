@@ -22,6 +22,7 @@
 + **UX Strategy: How to Devise Innovative Digital Products that People Want** - Jaime Levy 
 + **Microinteractions** - Dan Saffer
 + **Articulando Decisões de Design: Converse com os Stakeholders, Mantenha sua Sanidade e Crie a Melhor Experiência do Usuário** - Tom Greever
++ [**Microinteractions** - Dan Saffer](https://amzn.to/3RBYguQ) | [Versão para Kindle](https://amzn.to/3SMB2CV)
 
 <br>
 
