@@ -11,7 +11,7 @@
  
 + [**O Design do Dia a Dia** - Donald A.Norman](https://amzn.to/3E4GWeJ) | [Versão para Kindle](https://amzn.to/3LY9NmQ)
 + [**Não me Faça Pensar** - Steve Krug](https://amzn.to/3rtZpcV)
-+ **Usabilidade na Web** - Jakob Nielsen & Hoa Loranger
++ [**Usabilidade na Web** - Jakob Nielsen & Hoa Loranger - Versão em Inglês](https://amzn.to/3CqWgks)
 + **A Project Guide To UX Design** - Russ Unger and Carolyn Chandler 
 + [**Mapeamento de Experiências** - Jim Kalbach](https://amzn.to/3CmQLU2) | [Versão para Kindle](https://amzn.to/3rkv6pg)
 + [**Introdução e boas práticas em UX Design** - Fabricio Teixeira](https://amzn.to/3USdZIX) | [Versão para Kindle](https://amzn.to/3SL4itS)
