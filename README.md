@@ -18,7 +18,7 @@
 + [**Lean UX: Applying Lean Principles to Improve User Experience** - Gothelf, Jeff](https://amzn.to/3UUVZxn)
 + [**Building the Realtime User Experience** - Roden, Ted](https://amzn.to/3dW2ZJO)
 + [**Gamestorming – Jogos Corporativos Para Mudar, Inovar e Quebrar Regras** - Dave Gray, Sunni Brown, James Macanufo](https://amzn.to/3M03teC)
-+ **Sprint: o Método Usado No Google Para Testar e Aplicar Novas Ideias Em Apenas Cinco Dias** - Jake Knapp
++ [**Sprint: o Método Usado No Google Para Testar e Aplicar Novas Ideias Em Apenas Cinco Dias** - Jake Knapp](https://amzn.to/3rnnKkN) | [Versão para Kindle](https://amzn.to/3y5uOq8)
 + **UX Strategy: How to Devise Innovative Digital Products that People Want** - Jaime Levy 
 + **Microinteractions** - Dan Saffer
 + **Articulando Decisões de Design: Converse com os Stakeholders, Mantenha sua Sanidade e Crie a Melhor Experiência do Usuário** - Tom Greever
