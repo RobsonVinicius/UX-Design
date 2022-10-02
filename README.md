@@ -19,7 +19,7 @@
 + [**Building the Realtime User Experience** - Roden, Ted](https://amzn.to/3dW2ZJO)
 + [**Gamestorming – Jogos Corporativos Para Mudar, Inovar e Quebrar Regras** - Dave Gray, Sunni Brown, James Macanufo](https://amzn.to/3M03teC)
 + [**Sprint: o Método Usado No Google Para Testar e Aplicar Novas Ideias Em Apenas Cinco Dias** - Jake Knapp](https://amzn.to/3rnnKkN) | [Versão para Kindle](https://amzn.to/3y5uOq8)
-+ [*UX Strategy: How to Devise Innovative Digital Products that People Want** - Jaime Levy](https://amzn.to/3dXtUVQ)
++ [**UX Strategy: How to Devise Innovative Digital Products that People Want** - Jaime Levy](https://amzn.to/3dXtUVQ)
 + [**Estratégia de UX: Técnicas de Estratégia de Produto Para Criar Soluções Digitais Inovadoras** - Jaime Levy](https://amzn.to/3SOOqXn) | [Versão para Kindle](https://amzn.to/3UV19tq) 
 + [**Articulando Decisões de Design: Converse com os Stakeholders, Mantenha sua Sanidade e Crie a Melhor Experiência do Usuário** - Tom Greever](https://amzn.to/3RyqSou) | [Versão Kindle](https://amzn.to/3Rw2eoG)
 + [**Microinteractions** - Dan Saffer](https://amzn.to/3RBYguQ) | [Versão para Kindle](https://amzn.to/3SMB2CV)
