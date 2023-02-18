@@ -69,6 +69,7 @@
 
 ## 📰 Posts / Artigos
 
++ [The Ultimate Guide to Learning UX/UI Design in 2023 - Mento Design Academy](https://www.mentodesign.academy/learn-ux/the-ultimate-guide-to-learning-ux-ui-design-in-2023)
 + [Blog Caelum - Entendendo o usuário com proto-persona](https://blog.caelum.com.br/entendendo-usuario-proto-persona/)
 + [MVP é coisa do passado a moda agora é MLP](https://medium.com/collabcode/mvp-%C3%A9-coisa-do-passado-a-moda-agora-%C3%A9-mlp-4446fc476006#.ftdr8maco)
 + [Crazy Eights - Uma técnica rápida e visual para explorar ideias com seu time](https://blog.caelum.com.br/crazy-eights-uma-tecnica-rapida-e-visual-para-explorar-ideias-com-seu-time/)
