@@ -11,6 +11,7 @@
  
 + [O Design do Dia a Dia - Donald A.Norman](https://amzn.to/3E4GWeJ) | [Versão para Kindle](https://amzn.to/3LY9NmQ)
 + [Não me Faça Pensar - Steve Krug](https://amzn.to/3rtZpcV)
++ [The Elements of User Experience - Jesse James Garrett](https://www.amazon.com.br/Elements-User-Experience-User-Centered-English-ebook/dp/B004JLMDOC/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2OTRBK0WYZM7X&keywords=jesse+james+garrett&qid=1684814298&sprefix=jesse+james+garrett%2Caps%2C223&sr=8-1)
 + [Usabilidade na Web - Jakob Nielsen & Hoa Loranger - Versão em Inglês](https://amzn.to/3CqWgks)
 + [A Project Guide To UX Design - Russ Unger and Carolyn Chandler](https://amzn.to/3C3PX4V) | [Versão para Kindle](https://amzn.to/3CrKSVC)
 + [Mapeamento de Experiências - Jim Kalbach](https://amzn.to/3CmQLU2) | [Versão para Kindle](https://amzn.to/3rkv6pg)
