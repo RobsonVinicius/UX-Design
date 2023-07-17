@@ -68,6 +68,13 @@
 
 <br>
 
+## 🗺️ Roadmap
+
++ UX Design - Step by step guide to becoming a UX Designer in 2023 (https://roadmap.sh/ux-design)
+
+<br>
+
+
 ## 📰 Posts / Artigos
 
 + [The Ultimate Guide to Learning UX/UI Design in 2023 - Mento Design Academy](https://www.mentodesign.academy/learn-ux/the-ultimate-guide-to-learning-ux-ui-design-in-2023)
