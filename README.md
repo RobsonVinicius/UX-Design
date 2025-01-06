@@ -13,7 +13,7 @@
 + [Não me Faça Pensar - Steve Krug](https://amzn.to/4j5iBau)
 + [The Elements of User Experience - Jesse James Garrett](https://amzn.to/41XySsd)
 + [Usabilidade na Web - Jakob Nielsen & Hoa Loranger - Versão em Inglês](https://amzn.to/4fU8GSI)
-+ [A Project Guide To UX Design - Russ Unger and Carolyn Chandler](https://amzn.to/3C3PX4V) | [Versão para Kindle](https://amzn.to/3CrKSVC)
++ [A Project Guide To UX Design - Russ Unger and Carolyn Chandler](https://amzn.to/4gGn81v) | [Versão para Kindle](https://amzn.to/3CrKSVC)
 + [Mapeamento de Experiências - Jim Kalbach](https://amzn.to/3CmQLU2) | [Versão para Kindle](https://amzn.to/3rkv6pg)
 + [Introdução e boas práticas em UX Design - Fabricio Teixeira](https://amzn.to/3USdZIX) | [Versão para Kindle](https://amzn.to/3SL4itS)
 + [Lean UX: Applying Lean Principles to Improve User Experience - Gothelf, Jeff](https://amzn.to/3UUVZxn)
