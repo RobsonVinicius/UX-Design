@@ -32,7 +32,7 @@
 
 ## 🌐 Blogs
 
-+ ux.blog | Mergo (https://uxdesign.blog.br/)
++ Mergo Blog (https://www.mergo.com.br/blog/)
 + UX Collective (https://brasil.uxdesign.cc)
 + Coletivo UX (https://coletivoux.com/)
 + UX Booth (https://www.uxbooth.com/articles/)
