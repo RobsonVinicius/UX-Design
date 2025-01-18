@@ -131,6 +131,12 @@
 
 <br>
 
+## ✅ Checklist
+
++ [UX Project Checklist](https://www.ux-checklist.com/)
+
+<br>
+
 ## 📑 Estudo
 
 + [Laws of UX](https://lawsofux.com/)
