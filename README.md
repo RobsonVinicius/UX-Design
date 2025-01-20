@@ -16,7 +16,7 @@
 + [A Project Guide To UX Design - Russ Unger and Carolyn Chandler](https://amzn.to/4gGn81v) | [Versão para Kindle](https://amzn.to/3CrKSVC)
 + [Mapeamento de Experiências - Jim Kalbach](https://amzn.to/4gLSQuu) | [Versão para Kindle](https://amzn.to/3rkv6pg)
 + [Introdução e boas práticas em UX Design - Fabricio Teixeira](https://amzn.to/3C9luGR) | [Versão para Kindle](https://amzn.to/3SL4itS)
-+ [Lean UX: Applying Lean Principles to Improve User Experience - Gothelf, Jeff](https://amzn.to/3UUVZxn)
++ [Lean UX: Applying Lean Principles to Improve User Experience - Gothelf, Jeff](https://amzn.to/3DYC2lk)
 + [Building the Realtime User Experience - Roden, Ted](https://amzn.to/3dW2ZJO)
 + [Gamestorming – Jogos Corporativos Para Mudar, Inovar e Quebrar Regras - Dave Gray, Sunni Brown, James Macanufo](https://amzn.to/3M03teC)
 + [Sprint: o Método Usado No Google Para Testar e Aplicar Novas Ideias Em Apenas Cinco Dias - Jake Knapp](https://amzn.to/3rnnKkN) | [Versão para Kindle](https://amzn.to/3y5uOq8)
