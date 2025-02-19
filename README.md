@@ -23,7 +23,7 @@
 + [UX Strategy: How to Devise Innovative Digital Products that People Want - Jaime Levy](https://amzn.to/3WQ4tsp)
 + [Estratégia de UX: Técnicas de Estratégia de Produto Para Criar Soluções Digitais Inovadoras - Jaime Levy](https://amzn.to/3WUKeJY) | [Versão para Kindle](https://amzn.to/3UV19tq) 
 + [Articulando Decisões de Design: Converse com os Stakeholders, Mantenha sua Sanidade e Crie a Melhor Experiência do Usuário - Tom Greever](https://amzn.to/3CRtxbM) | [Versão Kindle](https://amzn.to/3Rw2eoG)
-+ [Microinteractions - Dan Saffer](https://amzn.to/3RBYguQ) | [Versão para Kindle](https://amzn.to/3SMB2CV)
++ [Microinteractions - Dan Saffer](https://amzn.to/4gMUjzO) | [Versão para Kindle](https://amzn.to/3SMB2CV)
 + [UX Design: Guia Definitivo com as Melhores Práticas de UX - Will Grant](https://amzn.to/3V1SIeU) | [Versão para Kindle](https://amzn.to/3EkhoIR)
 
 
