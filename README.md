@@ -28,26 +28,6 @@
 | <img src="https://m.media-amazon.com/images/I/91ieSeKKcUL._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **Microinteractions** | Dan Saffer | [Veja Mais](https://amzn.to/4gMUjzO)
 | <img src="https://m.media-amazon.com/images/I/71Oy1-OoJzL._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **UX Design: Guia Definitivo com as...** | Will Grant | [Veja Mais](https://amzn.to/435C45o)
 
-
-+ [O Design do Dia a Dia - Donald A.Norman](https://amzn.to/3W1X3So) 
-+ [Não me Faça Pensar - Steve Krug](https://amzn.to/4j5iBau)
-+ [The Elements of User Experience - Jesse James Garrett](https://amzn.to/41XySsd)
-+ [Usabilidade na Web - Jakob Nielsen & Hoa Loranger - Versão em Inglês](https://amzn.to/4fU8GSI)
-+ [A Project Guide To UX Design - Russ Unger and Carolyn Chandler](https://amzn.to/4gGn81v) | [Versão para Kindle](https://amzn.to/3CrKSVC)
-+ [Mapeamento de Experiências - Jim Kalbach](https://amzn.to/4gLSQuu) | [Versão para Kindle](https://amzn.to/3rkv6pg)
-+ [Introdução e boas práticas em UX Design - Fabricio Teixeira](https://amzn.to/3C9luGR) | [Versão para Kindle](https://amzn.to/3SL4itS)
-+ [Lean UX: Applying Lean Principles to Improve User Experience - Gothelf, Jeff](https://amzn.to/3DYC2lk)
-+ [Building the Realtime User Experience - Roden, Ted](https://amzn.to/3EhaS9m)
-+ [Gamestorming – Jogos Corporativos Para Mudar, Inovar e Quebrar Regras - Dave Gray, Sunni Brown, James Macanufo](https://amzn.to/40tYquw)
-+ [Sprint: o Método Usado No Google Para Testar e Aplicar Novas Ideias Em Apenas Cinco Dias - Jake Knapp](https://amzn.to/3CIdugb) | [Versão para Kindle](https://amzn.to/3y5uOq8)
-+ [UX Strategy: How to Devise Innovative Digital Products that People Want - Jaime Levy](https://amzn.to/3WQ4tsp)
-+ [Estratégia de UX: Técnicas de Estratégia de Produto Para Criar Soluções Digitais Inovadoras - Jaime Levy](https://amzn.to/3WUKeJY) | [Versão para Kindle](https://amzn.to/3UV19tq) 
-+ [Articulando Decisões de Design: Converse com os Stakeholders, Mantenha sua Sanidade e Crie a Melhor Experiência do Usuário - Tom Greever](https://amzn.to/3CRtxbM) | [Versão Kindle](https://amzn.to/3Rw2eoG)
-+ [Microinteractions - Dan Saffer](https://amzn.to/4gMUjzO) | [Versão para Kindle](https://amzn.to/3SMB2CV)
-+ [UX Design: Guia Definitivo com as Melhores Práticas de UX - Will Grant](https://amzn.to/435C45o) | [Versão para Kindle](https://amzn.to/3EkhoIR)
-
-
-
 <br>
 
 ## 🌐 Blogs
