@@ -14,7 +14,7 @@
 | --- | --- | --- | --- |
 | <img src="https://m.media-amazon.com/images/I/51Rheu+G0zL._SL1000_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **O Design do Dia a Dia** | Donald A.Norman | [Veja Mais](https://amzn.to/3W1X3So)
 | <img src="https://m.media-amazon.com/images/I/51i8-f+QMFL._SL1000_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **Não me Faça Pensar** | Steve Krug | [Veja Mais](https://amzn.to/4j5iBau)
-| <img src="https://m.media-amazon.com/images/I/71UkbPqyFmL._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **The Elements of User Experience** | Jesse James Garrett | [Veja Mais](https://amzn.to/4fU8GSI)
+| <img src="https://m.media-amazon.com/images/I/71UkbPqyFmL._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **The Elements of User Experience** | Jesse James Garrett | [Veja Mais](https://amzn.to/41FolBv)
 | <img src="https://m.media-amazon.com/images/I/71rTAp4-K5L._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **Usabilidade na Web** | Jakob Nielsen & Hoa Loranger | [Veja Mais](https://amzn.to/4fU8GSI)
 | <img src="https://m.media-amazon.com/images/I/71voNrL5h9L._SL1425_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **A Project Guide To UX Design** | Russ Unger and Carolyn Chandler | [Veja Mais](https://amzn.to/4gGn81v)
 | <img src="https://m.media-amazon.com/images/I/61vRL4F25YL._SL1000_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **Mapeamento de Experiência** | Jim Kalbach | [Veja Mais](https://amzn.to/4gLSQuu)
