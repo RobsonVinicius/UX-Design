@@ -71,7 +71,7 @@
 
 ## 🗺️ Roadmap
 
-+ UX Design - Step by step guide to becoming a UX Designer in 2023 (https://roadmap.sh/ux-design)
++ UX Design - Step by step guide to becoming a UX Designer in 2025 (https://roadmap.sh/ux-design)
 
 <br>
 
