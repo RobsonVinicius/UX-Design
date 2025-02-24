@@ -20,7 +20,8 @@
 | <img src="https://m.media-amazon.com/images/I/61sWLBeGgOL._SL1117_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **Introdução e boas práticas em UX Design** | Fabricio Teixeira | [Veja Mais](https://amzn.to/3C9luGR)
 | <img src="https://m.media-amazon.com/images/I/81qJb1LmkBL._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **Lean UX: Applying Lean Principles** | Gothelf, Jeff | [Veja Mais](https://amzn.to/3DYC2lk)
 | <img src="https://m.media-amazon.com/images/I/91r-Y2pHxZL._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **Building the Realtime User Experience** | Roden, Ted | [Veja Mais](https://amzn.to/3EhaS9m)
-| <img src="https://m.media-amazon.com/images/I/61BRYol7+mL._SL1062_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **Gamestorming** | Dave Gray, Sunni Brown, James Macanufo | [Veja Mais](https://amzn.to/40tYquw)
+| <img src="https://m.media-amazon.com/images/I/61BRYol7+mL._SL1062_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **Gamestorming - Jogos Corporativos...** | Dave Gray, Sunni Brown, James Macanufo | [Veja Mais](https://amzn.to/40tYquw)
+| <img src="https://m.media-amazon.com/images/I/61BRYol7+mL._SL1062_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **Sprint: o Método Usado No Google...** | Jake Knapp | [Veja Mais](https://amzn.to/40tYquw)
 
 
 + [O Design do Dia a Dia - Donald A.Norman](https://amzn.to/3W1X3So) 
