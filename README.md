@@ -49,7 +49,7 @@
 <br>
 
 ## 🎓 Cursos
-| Name | Blog |
+| Name | Site |
 | --- | --- |
 | Interaction Design Foundation | [Link](https://www.interaction-design.org/) |
 | NN Group | [Link](https://www.nngroup.com/training/) |
@@ -60,12 +60,6 @@
 | Wildtech - Agile UX | [Link](http://www.wildtech.com.br/agile-ux) |
 | Alura - UX Design | [Link](https://www.alura.com.br/cursos-online-design-ux) |
 | EBAC - Profissão UX/UI Designer | [Link](https://ebaconline.com.br/uxui-designer) |
-
-
-
-+ EBAC - Profissão UX/UI Designer (https://ebaconline.com.br/uxui-designer)
-
-
 
 <br>
 
