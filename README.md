@@ -24,7 +24,7 @@
 | <img src="https://m.media-amazon.com/images/I/81UhvfLRyAL._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **Sprint: o Método Usado No Google...** | Jake Knapp | [Veja Mais](https://amzn.to/3CIdugb)
 | <img src="https://m.media-amazon.com/images/I/91tP8n4oD7L._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **UX Strategy: How to Devise Innovative...** | Jaime Levy | [Veja Mais](https://amzn.to/3WQ4tsp)
 | <img src="https://m.media-amazon.com/images/I/81ogpawqK6L._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **Estratégia de UX: Técnicas de Estratégia...** | Jaime Levy | [Veja Mais](https://amzn.to/3WUKeJY)
-| <img src="https://m.media-amazon.com/images/I/81JK6eRUJ4L._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **Articulando Decisões de Design: Converse...** | Tom Greever | [Veja Mais](https://amzn.to/3CRtxbM)
+| <img src="https://m.media-amazon.com/images/I/81JK6eRUJ4L._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **Articulando Decisões de Design...** | Tom Greever | [Veja Mais](https://amzn.to/3CRtxbM)
 | <img src="https://m.media-amazon.com/images/I/91ieSeKKcUL._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **Microinteractions** | Dan Saffer | [Veja Mais](https://amzn.to/4gMUjzO)
 | <img src="https://m.media-amazon.com/images/I/71Oy1-OoJzL._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **UX Design: Guia Definitivo com as...** | Will Grant | [Veja Mais](https://amzn.to/435C45o)
 
