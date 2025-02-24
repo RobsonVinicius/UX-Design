@@ -2,7 +2,7 @@
  
  <img src="imagens/ux-design.gif" min-width="700px" width="700px" align="center" alt="image">
 
-  ### **Repositório criado para documentação de estudos em UX Design**
+<!--  ### **Repositório criado para documentação de estudos em UX Design** -->
 </div>
 <br><br>
 
