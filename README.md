@@ -7,7 +7,7 @@
 <br>
 
 
-## 📚  Livros: 
+## 📚  Livros
 <br>
 
 | Label | Title | Author | Link |
