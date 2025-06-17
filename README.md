@@ -12,13 +12,13 @@
 
 | Label | Title | Author | Link | 
 | --- | --- | --- | --- | 
-| <img src="https://m.media-amazon.com/images/I/51Rheu+G0zL._SL1000_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **O Design do Dia a Dia** | Donald A.Norman | [Veja Mais](https://amzn.to/3W1X3So)
-| <img src="https://m.media-amazon.com/images/I/51i8-f+QMFL._SL1000_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **Não me Faça Pensar** | Steve Krug | [Veja Mais](https://amzn.to/4j5iBau) 
-| <img src="https://m.media-amazon.com/images/I/71UkbPqyFmL._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **The Elements of User Experience** | Jesse James Garrett | [Veja Mais](https://amzn.to/41FolBv)
-| <img src="https://m.media-amazon.com/images/I/71rTAp4-K5L._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **Usabilidade na Web** | Jakob Nielsen & Hoa Loranger | [Veja Mais](https://amzn.to/4fU8GSI)
-| <img src="https://m.media-amazon.com/images/I/71voNrL5h9L._SL1425_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **A Project Guide To UX Design** | Russ Unger and Carolyn Chandler | [Veja Mais](https://amzn.to/4gGn81v)
-| <img src="https://m.media-amazon.com/images/I/61vRL4F25YL._SL1000_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **Mapeamento de Experiência** | Jim Kalbach | [Veja Mais](https://amzn.to/4gLSQuu)
-| <img src="https://m.media-amazon.com/images/I/61sWLBeGgOL._SL1117_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **Introdução e boas práticas em UX Design** | Fabricio Teixeira | [Veja Mais](https://amzn.to/3C9luGR)
+| <img src="https://m.media-amazon.com/images/I/51Rheu+G0zL._SL1000_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **O Design do Dia a Dia** | Donald A.Norman | [Veja Mais](https://amzn.to/4jXUREP)
+| <img src="https://m.media-amazon.com/images/I/51i8-f+QMFL._SL1000_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **Não me Faça Pensar** | Steve Krug | [Veja Mais](https://amzn.to/449au6o) 
+| <img src="https://m.media-amazon.com/images/I/71UkbPqyFmL._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **The Elements of User Experience** | Jesse James Garrett | [Veja Mais](https://amzn.to/4nkBOr8)
+| <img src="https://m.media-amazon.com/images/I/71rTAp4-K5L._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **Usabilidade na Web** | Jakob Nielsen & Hoa Loranger | [Veja Mais](https://amzn.to/4egOye7)
+| <img src="https://m.media-amazon.com/images/I/71voNrL5h9L._SL1425_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **A Project Guide To UX Design** | Russ Unger and Carolyn Chandler | [Veja Mais](https://amzn.to/45sSiXB)
+| <img src="https://m.media-amazon.com/images/I/61vRL4F25YL._SL1000_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **Mapeamento de Experiência** | Jim Kalbach | [Veja Mais](https://amzn.to/43ZbIB2)
+| <img src="https://m.media-amazon.com/images/I/61sWLBeGgOL._SL1117_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **Introdução e boas práticas em UX Design** | Fabricio Teixeira | [Veja Mais](https://amzn.to/4jU0un8)
 | <img src="https://m.media-amazon.com/images/I/81qJb1LmkBL._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **Lean UX: Applying Lean Principles** | Gothelf, Jeff | [Veja Mais](https://amzn.to/3DYC2lk)
 | <img src="https://m.media-amazon.com/images/I/91r-Y2pHxZL._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **Building the Realtime User Experience** | Roden, Ted | [Veja Mais](https://amzn.to/3EhaS9m)
 | <img src="https://m.media-amazon.com/images/I/61BRYol7+mL._SL1062_.jpg" min-width="50px" width="50px" align="center" alt="image"> | **Gamestorming - Jogos Corporativos...** | Dave Gray, Sunni Brown, James Macanufo | [Veja Mais](https://amzn.to/40tYquw)
